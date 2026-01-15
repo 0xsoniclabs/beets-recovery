@@ -1,7 +1,7 @@
-user,from wS/stS (S),from wOS/stS (S),Total (S),Distribution %,Compensation (S),,,
+user,from wS/stS (S),from wOS/stS (S),Total (S),Distribution %,Recovery (S),,,
 0x10891d6735b76b5435db8e446ecda3b640322038,"6,999,405",0,"6,999,405",25.80%,"1,503,953.39",,Total exploit amount (S):,"27,129,103"
 0x2a318be0876a44e95fb9433359e2487914e1b42d,"2,427,112",0,"2,427,112",8.95%,"521,510.43",,(Only users with > $1),
-0xd83333704f3d45859a1d4563faf912e6029ba97e,"1,277,218",0,"1,277,218",4.71%,"274,434.14",,Total compensation,"5,829,196"
+0xd83333704f3d45859a1d4563faf912e6029ba97e,"1,277,218",0,"1,277,218",4.71%,"274,434.14",,Total recovery,"5,829,196"
 0x8b78c25279649915b38f1ab3940902c06a928256,"1,245,322",0,"1,245,322",4.59%,"267,580.82",,,
 0xbb2d41acfea24a3a2ad4a6f95c3ace1cc98c6ed6,"1,153,584",0,"1,153,584",4.25%,"247,869.20",,,
 0xdc46bb979bf5102d78ece8e9a91dbaec932e756a,"862,167",0,"862,167",3.18%,"185,252.79",,,
@@ -1546,4 +1546,5 @@ user,from wS/stS (S),from wOS/stS (S),Total (S),Distribution %,Compensation (S),
 0x1d75bfa0d228faac0aaf8caeb0cbd0f2e1e0138c,8,0,8,0.00%,1.77,,,
 0x495bda4477a94386d476e1673049c3ed0e3fca92,8,0,8,0.00%,1.76,,,
 0xf5395120d09cf2182a5a9eb69fc2e2be1131ca38,8,0,8,0.00%,1.76,,,
+
 0xd8a7eb0609ee5b4899c2dd354fc99fdab3450891,8,0,8,0.00%,1.72,,,
